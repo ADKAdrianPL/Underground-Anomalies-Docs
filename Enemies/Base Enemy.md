@@ -1,1 +1,0 @@
-A stationary airborne spherical actor that, mechanically, has only the bare essentials: a mesh, a hurtbox, a hitbox, contact damage, health
