@@ -1,0 +1,11 @@
+- ACT 1
+    1.  Michał (coming from mikha’el, which apparently means "alike to God") **\[surname here\]**(either "Narutowicz" after Gabriel Narutowicz and to make a "Naruto" joke, "Stańczyk" after the jester and painting, or "Zawadzki after Tadeusz "Zośka" Zawadzki"; maybe a reference to Rafał Gan-Ganowicz the anti-communist mercenary)
+    2.  The Suit Advisory AI
+    3.  \[Name Here\] (the scientist)
+- ACT 2
+    1.  "the sentinel" ("Zorza Anna Jagiellonka" as a name maybe, in reference to the slavic goddess of sunrise "Zorza", and to the two polish woman kings Jadwiga Andegaweńska and Anna Jagiellonka maybe)  
+        fulfils the role of a rival character, being the protagonist's counterpart in the lore, a similar foil in the story, and a reccuring boss fight in gameplay
+    2.  "the villagers"
+    3.  "the bosses" (representing different ways large groups of people organize themselves)
+- ACT 3
+    1.  "Rugiewit Swarożyc Alabaster" (in reference to "Rugiewit" and "Swarożyc", the slavic gods of war, and fire respectively) (try to humanize a Scarlet King like character of SCP lore, as a challenge). The theme song could be some combination of the song in [Song Inspiration List.txt](../../../_resources/Song%20Inspiration%20List.txt); including this many inspirations in a song, while still making it a fitting "Ultimate Final Boss" theme, and giving it all some time to breathe would propably require spreading it out across a track about 30mins long, guess ill just have to read up on multi-phase boss fights then, actually the 30min track could be justified with a continuous boss rush of: 2 phases of the boss, followed by hopping into his head, a fighting personifications of trauma 1 phase each, from his entire life, with the last of them being some sort of memory exploring entity, turning the mental exploration on the player character beginning a battle through everything from childhood to adulthood that made the protagonist what they are today (modeled after yourself)(fighting the memory entity as a boss interlaced with arenas filled with enemies), followed by one last phase of the actual boss

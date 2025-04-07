@@ -1,0 +1,1 @@
+- The healing works by reading the DNA of the lifeform it comes into contact with and restores the body in accordance with it, meaning that it's great for wounds and useless for genetic defects

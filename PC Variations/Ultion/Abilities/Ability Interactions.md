@@ -1,0 +1,14 @@
+# The first ability \[Blocks. | Is Interrupted (by). | Continues (in spite of).\] the second ability.
+
+| Second \\ First | [Parry](../../../../../Underground%20Anomalies/Design%20Notes/PC%20Variations/Ultion/Abilities/Parry.md) | [Heal](../../../../../Underground%20Anomalies/Design%20Notes/PC%20Variations/Ultion/Abilities/Heal.md) | [Slash](../../../../../Underground%20Anomalies/Design%20Notes/PC%20Variations/Ultion/Abilities/Slash.md) | [Slice Stance](../../../../../Underground%20Anomalies/Design%20Notes/PC%20Variations/Ultion/Abilities/Slice%20Stance.md) | [Jump](../../../../../Underground%20Anomalies/Design%20Notes/PC%20Variations/Ultion/Abilities/Jump.md) | [Dash](../../../../../Underground%20Anomalies/Design%20Notes/PC%20Variations/Ultion/Abilities/Dash.md) | [Knockback](../../../../../Underground%20Anomalies/Design%20Notes/PC%20Variations/Ultion/Abilities/Knockback.md) |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| [Parry](../../../../../Underground%20Anomalies/Design%20Notes/PC%20Variations/Ultion/Abilities/Parry.md) | X   | Blocks. | Is Interrupted. | Blocks. | Is Interrupted. | Is Interrupted. | Blocks. |
+| [Heal](../../../../../Underground%20Anomalies/Design%20Notes/PC%20Variations/Ultion/Abilities/Heal.md) | Blocks. | X   | Blocks. | Blocks. | Blocks.\* | Blocks. | Blocks. |
+| [Slash](../../../../../Underground%20Anomalies/Design%20Notes/PC%20Variations/Ultion/Abilities/Slash.md) | Blocks. | Blocks. | X   | Continues.\*\* | Continues. | Is Interrupted. | Blocks. |
+| [Slice Stance](../../../../../Underground%20Anomalies/Design%20Notes/PC%20Variations/Ultion/Abilities/Slice%20Stance.md) | Blocks. | Blocks. | Is Interrupted. | X   | Continues. | Continues. | Blocks. |
+| [Jump](../../../../../Underground%20Anomalies/Design%20Notes/PC%20Variations/Ultion/Abilities/Jump.md) | Blocks. | Blocks. | Continues. | Continues. | X   | Is Interrupted. | Blocks. |
+| [Dash](../../../../../Underground%20Anomalies/Design%20Notes/PC%20Variations/Ultion/Abilities/Dash.md) | Blocks. | Blocks. | Continues. | Continues. | Is Interrupted. | X   | Blocks. |
+| [Knockback](../../../../../Underground%20Anomalies/Design%20Notes/PC%20Variations/Ultion/Abilities/Knockback.md) | Is Interrupted. | Is Interrupted. | Is Interrupted. | Is Interrupted. | Is Interrupted. | Is Interrupted. | X   |
+
+\*[Heal](../../../../../Underground%20Anomalies/Design%20Notes/PC%20Variations/Ultion/Abilities/Heal.md) can only be used when grounded.  
+\*\*[Slice Stance](../../../../../Underground%20Anomalies/Design%20Notes/PC%20Variations/Ultion/Abilities/Slice%20Stance.md) changes the function of Slash.

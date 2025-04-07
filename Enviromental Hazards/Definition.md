@@ -1,0 +1,1 @@
+An Enviromental Hazard is an Actor that damages the player character on contact.
