@@ -1,0 +1,1 @@
+Functionaly a plane with the same properties as the [Floatie](../../../Underground%20Anomalies/Design%20Notes/Enemies/Base%20Enemy.md).

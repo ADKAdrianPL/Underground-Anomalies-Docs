@@ -1,0 +1,1 @@
+a plant-like tentacled monter providing a challenging multi-phase boss fight
