@@ -1,3 +1,5 @@
-Underground Anomalies is a game in which the player controls a mobile character through a series of 3D enviroments, from a first person perspective.
+Underground Anomalies' gameplay loop centers around a powerful player character with a variety of abilities, all designed for two purposes: Traversal and Combat. The goal for both of those is getting a new ability to use in the next challange.
 
-The gameplay loop consists of utilizing abilities such as jumping and slashing to traverse linear obstacle courses featuring enemies and enviromental hazards, as well as optional collectables, with the aim of getting a new ability to use in the next challange. 
+Traversal involves navigating linear obstacle courses consisting of enviromental hazards, collectables, and enemies.
+
+Combat revolves around the generation and usage of Energy, by abilities preventing or inflicting damage.
