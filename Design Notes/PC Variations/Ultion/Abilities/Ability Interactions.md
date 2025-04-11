@@ -1,4 +1,4 @@
-# The first ability \[Blocks. | Is Interrupted (by). | Continues (in spite of).\] the second ability.
+# The first ability \[Blocks. / Is Interrupted (by). / Continues (in spite of).\] the second ability.
 
 | Second \\ First | [Parry](../../../../../Underground%20Anomalies/Design%20Notes/PC%20Variations/Ultion/Abilities/Parry.md) | [Heal](../../../../../Underground%20Anomalies/Design%20Notes/PC%20Variations/Ultion/Abilities/Heal.md) | [Slash](../../../../../Underground%20Anomalies/Design%20Notes/PC%20Variations/Ultion/Abilities/Slash.md) | [Slice Stance](../../../../../Underground%20Anomalies/Design%20Notes/PC%20Variations/Ultion/Abilities/Slice%20Stance.md) | [Jump](../../../../../Underground%20Anomalies/Design%20Notes/PC%20Variations/Ultion/Abilities/Jump.md) | [Dash](../../../../../Underground%20Anomalies/Design%20Notes/PC%20Variations/Ultion/Abilities/Dash.md) | [Knockback](../../../../../Underground%20Anomalies/Design%20Notes/PC%20Variations/Ultion/Abilities/Knockback.md) |
 | --- | --- | --- | --- | --- | --- | --- | --- |
