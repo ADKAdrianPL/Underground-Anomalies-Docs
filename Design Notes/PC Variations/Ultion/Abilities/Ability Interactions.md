@@ -1,14 +1,18 @@
-# The first ability \[Blocks. / Is Interrupted (by). / Continues (in spite of).\] the second ability.
+# The Ability Interactions Chart
 
-| Second \\ First | [Parry](../../../../../Underground%20Anomalies/Design%20Notes/PC%20Variations/Ultion/Abilities/Parry.md) | [Heal](../../../../../Underground%20Anomalies/Design%20Notes/PC%20Variations/Ultion/Abilities/Heal.md) | [Slash](../../../../../Underground%20Anomalies/Design%20Notes/PC%20Variations/Ultion/Abilities/Slash.md) | [Slice Stance](../../../../../Underground%20Anomalies/Design%20Notes/PC%20Variations/Ultion/Abilities/Slice%20Stance.md) | [Jump](../../../../../Underground%20Anomalies/Design%20Notes/PC%20Variations/Ultion/Abilities/Jump.md) | [Dash](../../../../../Underground%20Anomalies/Design%20Notes/PC%20Variations/Ultion/Abilities/Dash.md) | [Knockback](../../../../../Underground%20Anomalies/Design%20Notes/PC%20Variations/Ultion/Abilities/Knockback.md) |
+This is the outline of what should happen if the player tries to activate an ability while another one is still active.
+
+The first ability \[Blocks. / Is interrupted (by). / Continues (in spite of).\] the second ability.
+
+| Second\\First | [Parry](Parry.md) | [Heal](Heal.md) | [Slash](Slash.md) | [Slice Stance](Slice%20Stance.md) | [Jump](Jump.md) | [Dash](Dash.md) | [Knockback](Knockback.md) |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Parry](../../../../../Underground%20Anomalies/Design%20Notes/PC%20Variations/Ultion/Abilities/Parry.md) | X   | Blocks. | Is Interrupted. | Blocks. | Is Interrupted. | Is Interrupted. | Blocks. |
-| [Heal](../../../../../Underground%20Anomalies/Design%20Notes/PC%20Variations/Ultion/Abilities/Heal.md) | Blocks. | X   | Blocks. | Blocks. | Blocks.\* | Blocks. | Blocks. |
-| [Slash](../../../../../Underground%20Anomalies/Design%20Notes/PC%20Variations/Ultion/Abilities/Slash.md) | Blocks. | Blocks. | X   | Continues.\*\* | Continues. | Is Interrupted. | Blocks. |
-| [Slice Stance](../../../../../Underground%20Anomalies/Design%20Notes/PC%20Variations/Ultion/Abilities/Slice%20Stance.md) | Blocks. | Blocks. | Is Interrupted. | X   | Continues. | Continues. | Blocks. |
-| [Jump](../../../../../Underground%20Anomalies/Design%20Notes/PC%20Variations/Ultion/Abilities/Jump.md) | Blocks. | Blocks. | Continues. | Continues. | X   | Is Interrupted. | Blocks. |
-| [Dash](../../../../../Underground%20Anomalies/Design%20Notes/PC%20Variations/Ultion/Abilities/Dash.md) | Blocks. | Blocks. | Continues. | Continues. | Is Interrupted. | X   | Blocks. |
-| [Knockback](../../../../../Underground%20Anomalies/Design%20Notes/PC%20Variations/Ultion/Abilities/Knockback.md) | Is Interrupted. | Is Interrupted. | Is Interrupted. | Is Interrupted. | Is Interrupted. | Is Interrupted. | X   |
+| [Parry](Parry.md) | X   | Blocks | Is interrupted | Blocks | Is interrupted | Is interrupted | Blocks |
+| [Heal](Heal.md) | Blocks | X   | Blocks | Blocks | Blocks\* | Blocks | Blocks |
+| [Slash](Slash.md) | Blocks | Blocks | X   | Continues\*\* | Continues | Is interrupted | Blocks |
+| [Slice Stance](Slice%20Stance.md) | Blocks | Blocks | Is interrupted | X   | Continues | Continues | Blocks |
+| [Jump](Jump.md) | Blocks | Blocks | Continues | Continues | X   | Is interrupted | Blocks |
+| [Dash](Dash.md) | Blocks | Blocks | Continues | Continues | Is interrupted | X   | Blocks |
+| [Knockback](Knockback.md) | Is interrupted | Is interrupted | Is interrupted | Is Interrupted | Is interrupted | Is interrupted | X   |
 
-\*[Heal](../../../../../Underground%20Anomalies/Design%20Notes/PC%20Variations/Ultion/Abilities/Heal.md) can only be used when grounded.  
-\*\*[Slice Stance](../../../../../Underground%20Anomalies/Design%20Notes/PC%20Variations/Ultion/Abilities/Slice%20Stance.md) changes the function of Slash.
+\*[Heal](Heal.md) can only be used when grounded.  
+\*\*[Slice Stance](Slice%20Stance.md) changes the function of Slash.
