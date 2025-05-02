@@ -1,5 +1,7 @@
 ### The only way to recover a meaningful ammount of health in a timely manner.
 
+description
+
 - Default Inputs (Toggle, Hold):
     
     - Mouse and Keyboard: "F" Key
