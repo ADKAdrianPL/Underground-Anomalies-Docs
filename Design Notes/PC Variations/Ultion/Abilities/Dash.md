@@ -1,15 +1,15 @@
-### A situational burst of lateral mobility.
+### A burst of mobility.
 
-Description
+A quick and short lateral movement, unaffected by gravity, the purpose of which is to add complexity to exploration and combat.
 
 - Default Inputs: (Instant)
     - Mouse and Keyboard: Left Shift
     - Controller: Left Trigger
 - Effect: (Duration: 0.225s | Cooldown: 1.5s)
-    1.  A RootMotionConstantForce is applied to the Owner
-    2.  If the Owner'sCharacterMovement reads as falling, AirCharges is decremented.
-    3.  After 0.225s the applying of RootMotionConstantForce is ended, thus ending the ability
+    1. Gravity is disabled for the character.
+    2. A constant force is applied to the character, in the direction it's moving in (or forward if its stationary).
+    3. The constant force is removed and gravity is re-enabled after 0.225s, thus ending the ability.
+    4. The cooldown begins.
 - Notes:
-    - Due to the possibility that higher mobility would encourage players dodging attacks more than parrying them, dashing should only ever have one charge.
-    - Should only recharge after landing from the air, the only acception could be bouncing off of an enemy with the [Slash](Slash.md).
-    - (Distance / Time) gives strength, though if using a math node they might need to be named something else, like Reach and Time (although it's pointless to use a math node here, since the calculation here is just one operation)
+    - This ability can only be used once before the relatively long cooldown, to disincentivize the player from being overly reliant on it to dodge attacks instead of [Parry](Parry.md)ing them; it doesn't provide invulnerability for the same reason.
+    - The player character can dash only once in mid-air before landing; the only acception to this is if the ability is "recharged" by bouncing off of an enemy with the [Slash](Slash.md).
