@@ -1,8 +1,8 @@
 ### A punishment for getting hit.
 
-Technically "getting _Knockback_ed"; a reaction to receiving damage from colliding with an enemy, an attack, or select hazards.
+Technically "getting _Knockback_-ed"; a reaction to receiving damage from colliding with an enemy, an attack, or select hazards.
 
-- Effect: (Duration: 0.8s | Cooldown: N/A\*)
+- Effect: (Duration: 0.8s | Cooldown: 1.25\*)
     1.  Input is disabled.
     2.  The character is Launched away from the assailant at an upward angle.
     3.  After 0.8s: input is enabled, and the ability is ended.
