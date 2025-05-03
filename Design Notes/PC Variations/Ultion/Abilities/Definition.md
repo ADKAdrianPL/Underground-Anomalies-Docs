@@ -10,7 +10,7 @@ A summary of the ability's function, as well as its purpose within the game, wit
     Because of the near identical implementation, "Toggle" could also mean that pressing the button turns it on and letting go of it turns it off; This is denoted by adding ", Hold" after "Toggle" ("Toggle, Hold")._
     - Mouse and Keyboard:
     - Controller:
-- Effect: \[Duration: X.XXs or Varies | Cooldown: X.XXs\]  
+- Effect: \[Duration: X.XXs / Varies | Cooldown: X.XXs\]  
     _Duration is how long an ability stays active after activation.  
     Cooldown is how often an ability can be activated, independent from duration._
     - Description of what happens within the ability's duration, after the button is pressed and the ability is successfully activated.
