@@ -1,6 +1,6 @@
 ### Fixing combat mistakes.
 
-A vulnerable state of lowered mobility the character enters, in which energy is exchanged for health over time.
+A vulnerable state of lowered mobility, in which energy is exchanged for health over time.
 
 - Default Inputs (Toggle, Hold):
     - Mouse and Keyboard: "F" Key
