@@ -1,31 +1,30 @@
 ### Defence and resource generation.
 
-The most important ability in [this character's](../Summary.md) arsenal, the combat's entire gameplay loop revolves around it.<br>
-more describtion (that actually describes)
+Enter a stationary state, in which damage recieved from the front is turned into Energy.
 
 - Default Inputs (Toggle, Hold):
     - Mouse and Keyboard: "R" Key
     - Controller: Right Face Button
 - Effect: (Duration: 0.5s | Cooldown: 1.0s)
     1.  A state is enabled, in which:
-        1.  A message is sent to the OwnerCharacter, for it to change its DamageResponse to "Parry".
-            - Movement and Looking input is also disabled.
-        2.  The OwnerCharacter's GravityScale and Velocity are both zero'd out.
-    2.  If PointDamage is taken while the OwnerCharacter's DamageResponse is set to "Parry":
-        - If the UnitDirection(From:Camera; To:Assailant) is equal to the Camera's ForwardVector with 0.6 error tolerance, the Parry is a Success.
-            1.  The Damage value is added to the character's Energy.
-            2.  The ParryAbility is sent a message, that it was successful
-                - If the player is still holding the player button, the duration is reset
-                - If the player has let go of the button by this time, the ability is ended
-            3.  The assailant is sent a message, that it got parried.
+        1.  Movement and Looking inputs are disabled.
+        2.  The character's gravity and velocity are set to zero.
+        3.  The character enters the "Parry" state.
+    2.  When damage is recieved while within the "Parry" state:
+        - If it's from the front, the Parry is a Success:
+            1.  The damage is added to the character's Energy.
+            2.  The ParryAbility is sent a message, that it was successful.
+                - If the player is still holding the player button, the duration is reset.
+                - If the player has let go of the button by this time, the ability is ended.
+            3.  The assailant is notified that it got parried.\*
         - If its a failure:
             1.  The Parry is cancelled.
             2.  The PointDamage is applied as normal.
-        - If nothing happens, the parry ends after 0.5s.
-    3.  When the parry ends, or is cancelled
-        1.  A message is sent to the OwnerCharacter, for it to change its DamageResponse to "Default".
-            - Movement and Looking input is also enabled.
-        2.  The OwnerCharacter's GravityScale is reverted to the OriginalGravityScale (set at Initialization).
+    3.  If no damage is received, the parry ends after 0.5s.
+    4.  When the parry ends, or is cancelled:
+        1.  The character returns the "Default" state.
+        2.  Movement and Looking inputs are enabled.
+        3.  The character's gravity is reverted to the value it was at the start of the Parry.
 - Notes:
-    - The Player shouldn't just need to Parry, they should want to Parry.
-    - The first 0.1s of the parry could also reflect the damage, unlike the remaining duration. This better timed parry would be referred to as a "Counter"
+    - This is the only ability that generates Energy, as well as being the primary method of avoiding damage; it is designed to be central to the gameplay loop (at least within combat).
+    - \*Some enemies are pushed up and away from the character when they're Parried.
