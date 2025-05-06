@@ -1,6 +1,6 @@
-### The only way to deal damage without spenting recources.
+### Free self-defence.
 
-description
+Describe
 
 - Default Inputs: (Instant)
     - Mouse and Keyboard: Left Mouse Button
@@ -18,7 +18,4 @@ description
 - Notes:
     - The input for this ability is hijacked by [Slice Stance](Slice%20Stance.md).
     - Could give a fraction of the damage dealt as energy, as long as it doesn't step on the toes of the [Parry](Parry.md).
-    - Sword-bouncing could "recharge" the character's double jump.
-- Bugs:
-    - ~~The VarHeight function of the jump can cancel the upward momentum from a sword-bounce~~  
-        Solved
+    - Sword-bouncing reenables the character's [Double Jump](Jump.md), and [Dash](Dash.md).
