@@ -17,5 +17,4 @@ Describe
     2.  After the amount of time defined in the Duration, the ability is ended.
 - Notes:
     - The input for this ability is hijacked by [Slice Stance](Slice%20Stance.md).
-    - Could give a fraction of the damage dealt as energy, as long as it doesn't step on the toes of the [Parry](Parry.md).
     - Sword-bouncing reenables the character's [Double Jump](Jump.md), and [Dash](Dash.md).
