@@ -8,16 +8,17 @@ Holding down the button uses up energy at a constant rate to slow down the chara
 - Effect: (Duration: Varies + 0.2s | Cooldown: 0s)
     - The "Stance":
         1.  The owner is put into a state for the ability's duration, for as long as they have Energy, where:
-            1.  Time is slowed to 2.5%.
+            1.  Time is slowed down to 2.5%.
             2.  Movement inputs are used for looking around.
             3.  Looking inputs are used for aiming.
             4.  Energy is decreased by 5 points per second.
+            5.  The [Slash](Slash.md) is replaced by the "Slice".
         2.  When the ability is ended
-            1.  GlobalTimeDilation is set to 1.0
-            2.  The Owner's InputResponse is set to "Default"
-            3.  The Owner'sPlayerControler's input mode is set to game only, and its mouse cursor is hidden
+            1.  Time is sped back up.
+            2.  Movement and Looking inputs are reassigned back to moving and looking respectively.
     - The "Slice":
-        1.  An area in front of the character, rotated to match the ___ is defined.
+        1.  An area in front of the character, rotated to match the aiming direction is defined.
         2.  Damage is applied to every enemy hit.
 - Notes:
-    - A player can click the LMB ~5 times per second on average. compare to Slash, also if you can't click fast you can charge.
+    - A player can press a button (and therefore Slice) ~5 times per second on average, ~6.5 times faster than one can [Slash](Slash.md), due to that ability's cooldown.<br>
+Balancing the game around this ammount of damage per second could've been unfair to players that are not able to press a button repeatedly as fast as assumed, the attack button can be held down within the "Stance" to charge the "Slice" with the damage that would otherwise be dealt with rapid attacks to rectify that.
