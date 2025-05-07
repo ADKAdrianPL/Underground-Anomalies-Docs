@@ -1,4 +1,4 @@
-### A less simple offence.
+### A less basic offence.
 
 Holding down the button uses up energy at a constant rate to slow down the character's perception of time and allow for rapid attacks unburdened by cooldown.
 
@@ -7,13 +7,11 @@ Holding down the button uses up energy at a constant rate to slow down the chara
     - Controller: Right Trigger
 - Effect: (Duration: Varies + 0.2s | Cooldown: 0s)
     - The "Stance":
-        1.  The owner is, for the ability's duration, put into a state where:
-            1.  The Owner's InputResponse is set to "SliceStance"
-            2.  GlobalTimeDilation is set to 0.025
-            3.  The Owner'sPlayerControler's mouse cursor is shown
-            4.  Every frame, a SliceStanceTick is ran, in which:
-                1.  It is checked whether the Owner still has energy, if not, the ability is canceled
-                2.  Otherwise, energy is decreased by \[(WorldDeltaSeconds / GlobalTimeDilation) \* (-DrainRate)\]
+        1.  The owner is put into a state for the ability's duration, for as long as they have Energy, where:
+            1.  Time is slowed to 2.5%.
+            2.  Movement inputs are used for looking around.
+            3.  Looking inputs are used for aiming.
+            4.  Energy is decreased by 5 per second.
         2.  When the ability is ended
             1.  GlobalTimeDilation is set to 1.0
             2.  The Owner's InputResponse is set to "Default"
