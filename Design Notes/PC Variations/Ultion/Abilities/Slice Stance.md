@@ -1,11 +1,11 @@
 ### A flashy offence.
 
-desc
+Holding down the button uses up energy at a constant rate to slow down the character's perception of time and allow for rapid attacks unburdened by cooldown.
 
 - Default Inputs: (Toggle, Hold)
     - Mouse and Keyboard: Right Mouse Button
     - Controller: Right Trigger
-- Effect: (Duration: Varies + 0.2s | Cooldown: N/A)
+- Effect: (Duration: Varies + 0.2s | Cooldown: 0s)
     - The "Stance":
         1.  The owner is, for the ability's duration, put into a state where:
             1.  The Owner's InputResponse is set to "SliceStance"
@@ -20,11 +20,6 @@ desc
             3.  The Owner'sPlayerControler's input mode is set to game only, and its mouse cursor is hidden
     - The "Slice":
         1.  An area in front of the character, rotated to match the ___ is defined.
-        2.  Damage is applied to every Actor hit, once per activation
-        3.  A Message to "be sliced" is sent to every Actor hit, once per activation, via BPI_Ability_Extras
+        2.  Damage is applied to every enemy hit.
 - Notes:
-    - A player can, on average, click the LMB ~5 times per second.  
-        Assuming default settings (10 dmg & a drain rate of 5 EPS ), the above translates to 50 dmg per second, or 10 dmg per energy point.  
-        For the sake of balance, rapid slashing cannot deal significantly more damage than charging (more than 100 dmg per 10 energy).
-    - While the time dilation doesn't interfere with things that are supposed to happen in "world time", it may disturb things in "player time".  
-        The fix for this is to multiply the "time" value by "GlobalTimeDilation"
+    - A player can click the LMB ~5 times per second on average. compare to Slash, also if you can't click fast you can charge.
