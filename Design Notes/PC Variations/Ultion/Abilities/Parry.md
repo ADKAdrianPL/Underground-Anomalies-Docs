@@ -14,7 +14,7 @@ Enter a stationary state, in which damage recieved from the front is turned into
         - If it's from the front, the Parry is a Success:
             1.  The damage is added to the character's Energy.
             2.  The ParryAbility is sent a message, that it was successful.
-                - If the player is still holding the player button, the duration is reset.
+                - If the player is still holding the player button, the duration is extended by 0.5s.
                 - If the player has let go of the button by this time, the ability is ended.
             3.  The assailant is notified that it got parried.\*
         - If its a failure:
