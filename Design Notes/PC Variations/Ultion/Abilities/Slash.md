@@ -1,4 +1,4 @@
-### Basic offence.
+### A basic offence.
 
 A simple form of melee attack. A moderately long cooldown and low damage are offset by the lack of an Energy cost.
 
