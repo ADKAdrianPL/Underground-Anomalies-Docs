@@ -11,7 +11,7 @@ Holding down the button uses up energy at a constant rate to slow down the chara
             1.  Time is slowed to 2.5%.
             2.  Movement inputs are used for looking around.
             3.  Looking inputs are used for aiming.
-            4.  Energy is decreased by 5 per second.
+            4.  Energy is decreased by 5 points per second.
         2.  When the ability is ended
             1.  GlobalTimeDilation is set to 1.0
             2.  The Owner's InputResponse is set to "Default"
