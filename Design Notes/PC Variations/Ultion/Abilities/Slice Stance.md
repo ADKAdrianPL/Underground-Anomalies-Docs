@@ -1,4 +1,4 @@
-### A flashy offence.
+### A less simple offence.
 
 Holding down the button uses up energy at a constant rate to slow down the character's perception of time and allow for rapid attacks unburdened by cooldown.
 
