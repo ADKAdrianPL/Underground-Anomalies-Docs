@@ -1,7 +1,3 @@
-A Playable Character Variation is functionaly, a different player controlled character with different [Abilities](:/121ebaf342f14e1c8fae17ff68dd0e76).
-Note that since the mechanics change, and the world is built around the mechanics, the world will also have to change somewhat to "fit" different PCV's movesets.
+The code for this project's player character is structured in a way that facilitates the addition of alternate player character's. This is done through inheritence; a "base character" class defines the functions that every character would need to function that a "specific character" class could then build off of.
 
-- Currently conceptualized PCVs include:
-    - [Ultion](../../../Underground%20Anomalies/Design%20Notes/PC%20Variations/Ultion/Summary.md)
-    - Chronograph
-        Inspired by [Touhou: Luna Nights'](https://store.steampowered.com/app/851100/Touhou_Luna_Nights/) playable Sakuya, and [Jojo Go Beyond Data Pack's](https://trello.com/b/msnH5Ebg/go-beyonds-epic-trello) interpretation of Epitaph and King Crimson.
+This is unused due to time constraints. Other variations of the player character have been conceptualized but only one was implemented: Ultion (an obsolete english word, borrowed from latin, meaning "revenge" or "vengance").
