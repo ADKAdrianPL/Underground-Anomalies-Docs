@@ -6,7 +6,7 @@ desc
     - Mouse and Keyboard: Right Mouse Button
     - Controller: Right Trigger
 - Effect: (Duration: Varies + 0.2s | Cooldown: N/A)
-    - The stance
+    - The "Stance":
         1.  The owner is, for the ability's duration, put into a state where:
             1.  The Owner's InputResponse is set to "SliceStance"
             2.  GlobalTimeDilation is set to 0.025
@@ -18,8 +18,8 @@ desc
             1.  GlobalTimeDilation is set to 1.0
             2.  The Owner's InputResponse is set to "Default"
             3.  The Owner'sPlayerControler's input mode is set to game only, and its mouse cursor is hidden
-    - A Slice is the mid-stance replacement of the [Slash](Slash.md) in which:
-        1.  A MultiBoxTraceForObjects is executed
+    - The "Slice":
+        1.  An area in front of the character, rotated to match the ___ is defined.
         2.  Damage is applied to every Actor hit, once per activation
         3.  A Message to "be sliced" is sent to every Actor hit, once per activation, via BPI_Ability_Extras
 - Notes:
