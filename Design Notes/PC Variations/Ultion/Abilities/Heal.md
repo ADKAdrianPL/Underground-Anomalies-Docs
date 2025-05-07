@@ -5,7 +5,7 @@ A vulnerable state of lowered mobility, in which energy is exchanged for health 
 - Default Inputs (Toggle, Hold):
     - Mouse and Keyboard: "F" Key
     - Controller: Up Face Button
-- Effect: (Duration: Varies + 0.75s | Cooldown: Duration + 1.0s)
+- Effect: (Duration: Varies + 0.75s | Cooldown: 1.0s)
     1.  The character's speed is lowered from 550 to 200.
         1.  Healing is constantly done:
             1.  The character's Health and Energy are increased and decreased respectively, at a rate of 10 points per second.
