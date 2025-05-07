@@ -2,4 +2,4 @@ Underground Anomalies' gameplay loop centers around a powerful player character 
 
 Traversal involves navigating linear obstacle courses consisting of enviromental hazards, collectables, and enemies.
 
-Combat revolves around the generation and usage of Energy, by abilities preventing or inflicting damage.
+Combat revolves around generating Energy by defensive play, and spending it on damaging offensive actions.
