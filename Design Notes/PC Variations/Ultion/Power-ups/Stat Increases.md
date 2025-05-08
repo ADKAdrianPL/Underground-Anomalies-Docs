@@ -1,3 +1,1 @@
-- Effects
-    - Adds the ChangeByValue (Float; Instance Editable; "10" by default)  
-        to a Stat's MaxValue as targeted by the TargetStatKind variable (Enum; Instance Editable; "Health" by default).
+Simple optional collectables scattered across the levels leading up to the final boss, encouraging a bit of exploration and rewarding it with an increase (by 10 points) to either the maximum Health or Energy that the character can have.
