@@ -1,12 +1,6 @@
-- Visual Representation
-    
-    - Switching from a normal crash pod space suit to what appears to be a standard High Mobility Exploration and Combat Suit
-- Effects
-    
-    - Increments [Jump](../../../../../Underground%20Anomalies/Design%20Notes/PC%20Variations/Ultion/Abilities/Jump.md) Level
-        
-    - Changes Character Movement Values
-        
+- This power-up is given to the player shortly after a basic movement tutorial section, enabling the ammount of mobility the rest of the game was designed around.
+    - Enables the [Jump's](../Abilities/Jump.md) variable height functionality.
+    - Changes the character's movement configuration values:
         | Movement Variable | Original Value | Target Value |
         | --- | --- | --- |
         | Gravity Scale | 1.0 | 2.0 |
@@ -16,9 +10,6 @@
         | Air Control | 0.05 | 1.0 |
         | Ground Friction | 8.0 | 10.0 |
         | Falling Lateral Friction | 0.0 | 7.5 |
-        
 - Notes
-    
-    - (sqrt(((2 \* (0 - GravityZ)) \* JumpHeight))) = JumpZVelocity aka. "max jump height".
-    - JumpHeight at 90 is achieved at 420 JumpZVelocity
-    - maybe the speed and jump height increases should be one power-up, while the air control used for more precise jumps could be introduced later? maybe even at the half way point
+    - At one point in development, the speed and jump height increases were one power-up, while the additional air control used for more precise jumps was another;<br>
+the two were folded into one to allow for more gameplay complexity within the small number of levels this project has.
