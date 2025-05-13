@@ -18,4 +18,4 @@ The project files themselves are available [here](); **due to technical difficul
 6. Slightly lower and to the middle there is a "Platforms" button accompanied by a graphic of a controller and monitor.<br>Press "Platforms", hover over your current platform (under "CONTENT/SDK/DEVICE MANAGEMENT"), select "Shipping" (under "BINARY CONFIGURATION"), then press "Cook Project" (under "CONTENT MANAGEMENT"), and wait for the Cooking to finish.
 7. Navigate to the same place as the previous step, this time pressing "Package Project" (under "CONTENT MANAGEMENT").
 8. Select a convenient place on your computer (eg.: Documents, Desktop), and wait for the Packaging to finish.
-9. Navigate to the Packaged Game Executable (*place you selected in Step 8*/*your platform*/UndergrounAnomalies.*executable format*), and launch the game.
+9. Navigate to the packaged game executable (*place you selected in Step 8*/*your platform*/UndergrounAnomalies.*executable format*), and launch the game.
