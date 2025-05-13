@@ -11,8 +11,8 @@ The project files themselves are available [here](); **due to technical difficul
 ### Instrucions for downloading and building Underground Anomalies:
 
 1. Install Unreal Engine 5.5.
-2. Download the [game files]().
-3. Extract the game files into the Unreal Engine 5.5 "Unreal Projects" file.
+2. Download the [project files zip file](), "Underground Anomalies 5.5.zip".
+3. Extract "Underground Anomalies 5.5.zip" into the Unreal Engine 5.5 "Unreal Projects" file (most commonly in "Documents").
 4. Open the "Underground Anomalies" project in Unreal Engine 5.5.
 5. Press "Build" then "Build All Levels" on the topmost toolbar, and wait for the Building to finish.
 6. Slightly lower and to the middle there is a "Platforms" button accompanied by a graphic of a controller and monitor.<br>Press "Platforms", hover over your current platform (under "CONTENT/SDK/DEVICE MANAGEMENT"), select "Shipping" (under "BINARY CONFIGURATION"), then press "Cook Project" (under "CONTENT MANAGEMENT"), and wait for the Cooking to finish.
