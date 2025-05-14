@@ -19,4 +19,3 @@ The project files themselves are available [here](https://drive.google.com/file/
 7. Navigate to the same place as the previous step, this time pressing "Package Project" (under "CONTENT MANAGEMENT").
 8. Select a convenient place on your computer (eg.: Documents, Desktop), and wait for the Packaging to finish.
 9. Navigate to the packaged game executable (*"place you selected in Step 8"* / *"your platform"* / "UndergroundAnomalies.*executable format*"), and launch the game.
-10. have fun?
