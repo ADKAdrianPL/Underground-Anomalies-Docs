@@ -2,6 +2,7 @@
 
 A vulnerable state of lowered mobility, in which energy is exchanged for health over time.
 
+- Obtained from the [Ability Giving Power-up](../../../Enviroment/Enviromental%20Features/Helpful/Power-ups/Ability%20Giving.md) in the [Sword Intro Level](../../../Enviroment/Levels/Sword%20Intro.md).
 - Default Inputs (Toggle, Hold):
     - Mouse and Keyboard: "F" Key
     - Controller: Up Face Button
