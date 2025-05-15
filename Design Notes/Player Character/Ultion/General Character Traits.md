@@ -1,1 +1,3 @@
- 
+"Ultion" is a player character focused on melee combat, every ability is either very useful in close-quarters engagements ([Dash](Abilities/Dash.md) and [Jump](Abilities/Jump.md), ) or explicitly designed for it ([Heal](Abilities/Heal.md), [Slash](Abilities/Slash.md), [Parry](Abilities/Parry.md), and [Slice Stance](Abilities/Slice%20Stance.md)).
+
+This character generates Energy by use of the [Parry](Abilities/Parry.md) in the face of assault, and spending it either on a highly damaging [Slice Stance](Abilities/Slice%20Stance.md) right next to an enemy, or on [Healing](Abilities/Heal.md) from mistakes made in battle in a pocket of safety. [Dash](Abilities/Dash.md) and [Jump](Abilities/Jump.md) facilitate this by helping the character approach enemies from farther away.
