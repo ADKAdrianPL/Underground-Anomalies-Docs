@@ -1,4 +1,4 @@
-## A stationary interactable object which saves certain things on activation.
+### A stationary interactable object which saves certain things on activation, as well as setting the character's Health to max.
 
 - The saved things include:
 	- The player character's:
