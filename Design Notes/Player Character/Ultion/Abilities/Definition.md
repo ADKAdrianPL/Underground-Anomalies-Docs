@@ -4,6 +4,7 @@
 
 A summary of the ability's function, as well as its purpose within the game, with pseudo code below.
 
+- Obtainment method.
 - Default Inputs: (Instant / Toggle / Toggle, Hold)  
     _While "Instant" is relatively self-explanitory (pressing a button activates the ability), "Toggle" is a bit counter-intuitive.  
     It doesn't necessarily mean that one press of a button activates the ability and another one is required to turn it off.  
