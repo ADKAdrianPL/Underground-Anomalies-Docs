@@ -29,4 +29,4 @@ Enter a stationary state, in which damage recieved from the front is turned into
 - Notes:
     - This is the only ability that generates Energy, as well as being the primary method of avoiding damage; it is designed to be central to the gameplay loop (at least within combat).
     - \*Some enemies are pushed up and away from the character when they're Parried.
-    - \**This functionality exists to account for rapid enemy attacks, by allowing the player defend against all of them by holding the button down, instead of being forced to press the button equaly rapidly. This is most notably used in the fight against the [final boss]().
+    - \**This functionality exists to account for rapid enemy attacks, by allowing the player defend against all of them by holding the button down, instead of being forced to press the button equaly rapidly. This is most notably used in the fight against the [final boss](../../../Enviroment/Enviromental%20Features/Harmful/Enemies/Growth.md), to defend against its rapid-fire [Turrets](../../../Enviroment/Enviromental%20Features/Harmful/Enemies/Turret.md).
