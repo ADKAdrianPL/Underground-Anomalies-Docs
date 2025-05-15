@@ -1,5 +1,5 @@
 - This unavoidable power-up is given to the player shortly after a basic movement tutorial section, enabling the ammount of mobility the rest of the game was designed around.
-    - Enables the [Jump's](../Abilities/Jump.md) variable height functionality.
+    - Enables the [Jump's](../../../../Player%20Character/Ultion/Abilities/Slash.md) variable height functionality.
     - Changes the character's movement configuration values:
         | Movement Variable | Original Value | Target Value |
         | --- | --- | --- |
