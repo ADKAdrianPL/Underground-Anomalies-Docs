@@ -2,6 +2,7 @@
 
 Technically "getting _Knockback_-ed"; a reaction to receiving damage from colliding with an enemy, an attack, or select hazards.
 
+- Inherent.
 - Effect: (Duration: 0.8s | Cooldown: 1.25s\*)
     1.  Input is disabled.
     2.  The character is Launched away from the assailant at an upward angle.
