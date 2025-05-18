@@ -2,7 +2,7 @@
 
 A quick and short lateral movement, unaffected by gravity, the purpose of which is to add complexity to exploration and combat.
 
-- Obtained from the second [Ability Giving Power-up](../../../Enviroment/Enviromental%20Features/Helpful/Power-ups/Ability%20Giving.md) in the [Mobility Suite Level](../../../Enviroment/Levels/Mobility%20Suite.md).
+- Obtained from the second [Ability Giving Power-up](../../../Enviroment/Enviromental%20Features/Helpful/Power-ups/Ability%20Giving.md) in the [Mobility Suite](../../../Enviroment/Levels/Mobility%20Suite.md).
 - Default Inputs: (Instant)
     - Mouse and Keyboard: Left Shift
     - Controller: Left Trigger
