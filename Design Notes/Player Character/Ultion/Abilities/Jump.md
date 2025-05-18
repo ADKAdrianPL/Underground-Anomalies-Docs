@@ -2,7 +2,7 @@
 
 The main method of navigating an obstacle filled world, second only to walking. Used to jump between platforms, around stationary hazards, and potentialy over some enemies.
 
-- Inherent; upgraded by the [General Mobility Power-up](../../../Enviroment/Enviromental%20Features/Helpful/Power-ups/General%20Mobility.md) in the [Jump Intro Level](../../../Enviroment/Levels/Jump%20Intro.md).
+- Inherent; upgraded by the [General Mobility Power-up](../../../Enviroment/Enviromental%20Features/Helpful/Power-ups/General%20Mobility.md) in the [Jump Intro](../../../Enviroment/Levels/Jump%20Intro.md).
 - Default Inputs: (Toggle, Hold)
     - Mouse and Keyboard: Space bar
     - Controller: Left Shoulder
