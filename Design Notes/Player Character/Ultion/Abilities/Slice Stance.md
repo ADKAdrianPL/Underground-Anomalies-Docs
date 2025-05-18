@@ -2,7 +2,7 @@
 
 Holding down the button uses up energy at a constant rate to slow down the character's perception of time and allow for rapid attacks unburdened by cooldown.
 
-- Obtained from the [Ability Giving Power-up](../../../Enviroment/Enviromental%20Features/Helpful/Power-ups/Ability%20Giving.md) in the [Sword Intro Level](../../../Enviroment/Levels/Sword%20Intro.md).
+- Obtained from the [Ability Giving Power-up](../../../Enviroment/Enviromental%20Features/Helpful/Power-ups/Ability%20Giving.md) in the [Sword Intro](../../../Enviroment/Levels/Sword%20Intro.md).
 - Default Inputs: (Toggle, Hold)
     - Mouse and Keyboard: Right Mouse Button
     - Controller: Right Trigger
