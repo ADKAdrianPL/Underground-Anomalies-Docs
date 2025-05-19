@@ -1,5 +1,9 @@
-An enemy that floats in the air and shoots in a single direction, periodicaly.
+### An enemy shoots in a single direction, periodicaly.
 
-Variations may include: different rate of fire, whether or not to aim for the player.
+- Variations may include:
+	- Different rate of fire.
+	- Whether or not to aim for the player.
+	- Amount of projectiles per burst.
+	- Whether or not the player can [Slash Bounce](../../../../Player%20Character/Ultion/Abilities/Slash.md) off of the projectiles.
 
-If a more passive wall turret is ultimately decided upon, it would technically be less of an "enemy" and closer to being classified as an "enviromental hazard"
+Used as an obstacle.
