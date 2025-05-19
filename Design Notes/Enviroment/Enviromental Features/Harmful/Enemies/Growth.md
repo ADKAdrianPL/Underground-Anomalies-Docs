@@ -1,1 +1,6 @@
-A stationary airborne spherical actor that, mechanically, has only the bare essentials: a mesh, a hurtbox, a hitbox, contact damage, health
+### The final boss.
+
+A collection of [Turrets](Turret.md) and [Tentacles](Tentacle.md) serving as a combat challenge.
+
+- Appears in:
+	- [Growth](../../../Levels/Growth.md)
