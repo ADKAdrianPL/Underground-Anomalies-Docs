@@ -1,4 +1,4 @@
-A stationary airborne spherical actor that, mechanically, has only the bare essentials: a mesh, a hurtbox, a hitbox, contact damage, health.
+### A floating enemy that has only the bare essentials: collision, contact damage, health.
 
 Used as an obstacle the player may [Slash Bounce](../../../../Player%20Character/Ultion/Abilities/Slash.md) off of.
 
