@@ -1,4 +1,4 @@
-### An enemy shoots in a single direction, periodicaly.
+### An enemy that shoots in a single direction, periodicaly.
 
 - Variations may include:
 	- Different rate of fire.
