@@ -7,7 +7,7 @@
 	2. The upper exit leads to a room with a platform, and a [Stat Increase Power-up](../Enviromental%20Features/Helpful/Power-ups/Stat%20Increases.md) tucked into a corner.
 	3. The only way forward is to reach an opening on the other side of the room, which is too high to [Jump]() to from the ground and too far to just [Jump]() to from the platform.<br>slash bouncing off of a [Single Hit Zone]()
 	4. The next room has a similar setup, requiring consecutive [Slash Bounces](../../Player%20Character/Ultion/Abilities/Slash.md) off of floating [Base Enemies](), over a pit of crawlies with a stat increase.
-3. Slice stance one blob encounter
+3. Slice stance one blob encounter (checkpoint)
 4. [Slash Bounce](../../Player%20Character/Ultion/Abilities/Slash.md) continued.
 	1. Next up is a challenge consisting of turrets above platforms with crawlies, and a slash bounce off of a slow projectile
-4. two blob encounter
+4. two blob encounter (checkpoint)
