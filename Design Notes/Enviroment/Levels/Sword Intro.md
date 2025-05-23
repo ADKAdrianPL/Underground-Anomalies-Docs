@@ -10,3 +10,4 @@
 3. Slice stance one blob encounter
 4. [Slash Bounce](../../Player%20Character/Ultion/Abilities/Slash.md) continued.
 	1. Next up is a challenge consisting of turrets above platforms with crawlies, and a slash bounce off of a slow projectile
+4. two blob encounter
