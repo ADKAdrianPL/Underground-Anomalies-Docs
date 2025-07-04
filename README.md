@@ -6,7 +6,7 @@ This repository contains the project's design documentation.
 
 The author's [LinkedIn](https://www.linkedin.com/in/adrian-kruszynski/) might also be of interest.
 
-The project files themselves are available [here](https://drive.google.com/file/d/13EPCF8S4iplYvrbgs12M8dOY4o_Ipr31/view?usp=sharing); **due to technical difficulties, they must first be built according to the below steps in order to be playable.**
+The project files themselves are available [here](https://drive.google.com/file/d/13EPCF8S4iplYvrbgs12M8dOY4o_Ipr31/view?usp=sharing); **due to technical difficulties, they must first be built according to the below steps in order to be playable. They can also, alternatively, be played "in-editor".**
 
 ### Instrucions for downloading and building Underground Anomalies:
 
